@@ -1,0 +1,21 @@
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backend
+sb-ecom/target/
+sb-ecom/run.log
+sb-ecom/images/
+
+# Frontend
+ecom-frontend/node_modules/
+ecom-frontend/dist/
+ecom-frontend/dist-ssr/
+ecom-frontend/.env
+ecom-frontend/.env.local
